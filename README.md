@@ -1,3 +1,6 @@
+Name: Emad Abdelmiseh
+FSUID: eea17b
+
 # FAQ
 
 ## I have XCode installed (and consequently its bundled git); how do I get my system to use this version instead?
